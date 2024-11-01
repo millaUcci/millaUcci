@@ -8,10 +8,10 @@
 I'm a high school student in **Brazil**, majoring in Systems Analysis and Development, currently working as an intern in this area. I'm on a journey to make technology more impactful, inclusive, and accessible, and I love exploring different facets of programming! 
 
 ### 🎇 My favorite tools and languages:
-- **Languages & Frameworks**: Java, Python, Kotlin (learning!), React, HTML/CSS, JavaScript
+- **Languages & Frameworks**: Java, Python, Kotlin (learning!), React, HTML/CSS, JavaScript, Spring
 - **Databases**: MongoDB, PostgreSQL, Neo4j, Redis
 - **DevOps & Cloud**: CI/CD, Docker, GitHub Actions, AWS, Firebase
-- **Other Tools**: Android, Spring, Swagger, Linux, Windows
+- **Other Tools**: Android, Swagger, Linux, Windows
 
 Beyond coding, I love immersing myself in books, experimenting in the kitchen, sketching, and dancing whenever I get the chance!
 
